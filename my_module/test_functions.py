@@ -66,7 +66,6 @@ test_BballPlayer()
 test_Team()    
 test_unassigned_players()
 
-print('hello')
 
 
 
